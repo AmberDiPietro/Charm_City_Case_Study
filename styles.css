@@ -110,11 +110,11 @@ body {
     }
       .Title {
       width: 100%;
-        max-width: 486px;
+        max-width: 495px;
       height: auto;
       flex-grow: 0;
       font-family: PlayfairDisplay;
-      font-size: 58px;
+      font-size: 55px;
       font-weight: bold;
       font-stretch: normal;
       font-style: normal;
