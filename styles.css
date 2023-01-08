@@ -733,7 +733,9 @@ background-color:#1f1f1f;
   padding-right: 0px;
 }
 
-
+ .testingimage {
+    width: 100%;
+  } 
 }
 
 @media only screen and (max-width: 579px) {
@@ -764,7 +766,9 @@ background-color:#1f1f1f;
    .fixme {
     display: none;
    }
-   
+  .testingimage {
+    width: 100%;
+  } 
 
    .resimage {
     max-width: 300px;
